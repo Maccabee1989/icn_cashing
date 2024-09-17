@@ -6,6 +6,7 @@ ICA management platform (Internal Credit Notices)
 
 ## Features
 
+
 ### Client 
 - [x] Light/dark mode toggle
 - [ ] Fullscreen mode
