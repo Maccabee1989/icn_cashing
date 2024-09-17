@@ -44,3 +44,6 @@
 # typescript
 /app/client/*.tsbuildinfo
 /app/client/next-env.d.ts
+
+
+/workdir
